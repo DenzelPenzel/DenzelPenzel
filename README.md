@@ -14,13 +14,11 @@
 
 * <a href="https://github.com/draculaas"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Software+Engineer" alt="Typing SVG" /></a>
 
-* <a href="https://github.com/draculaas"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Distributed+systems" alt="Typing SVG" /></a>
+* <a href="https://github.com/draculaas"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Passionate+About+Distributed+Systems+And+Algorithms" alt="Typing SVG" /></a>
 
-* <a href="https://github.com/draculaas"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Algorithms" alt="Typing SVG" /></a>
+* <a href="https://github.com/draculaas"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Blockchain+researcher" alt="Typing SVG" /></a>
 
-* <a href="https://github.com/draculaas"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Crypto+Trading" alt="Typing SVG" /></a>
-
-* <a href="https://github.com/draculaas"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Security+researcher" alt="Typing SVG" /></a>
+* <a href="https://github.com/draculaas"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Algorithmic+trading" alt="Typing SVG" /></a>
 
 ## Tech Stack 
 
