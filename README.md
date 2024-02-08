@@ -22,7 +22,7 @@
 
 * <a href="https://github.com/draculaas"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Security+researcher" alt="Typing SVG" /></a>
 
-## Languages of Programming
+## Tech Stack 
 
 ![GO](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
