@@ -7,7 +7,7 @@
 </p>
 <h3 align="center">
         <samp>&gt; Hey!, I am
-                <b>Denis</b>
+                <b>Denzel</b>
         </samp>
 </h3>
 
