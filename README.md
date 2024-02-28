@@ -18,7 +18,9 @@
 
 * <a href="https://github.com/draculaas"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Blockchain+researcher" alt="Typing SVG" /></a>
 
-* <a href="https://github.com/draculaas"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Algorithmic+trading" alt="Typing SVG" /></a>
+* <a href="https://github.com/draculaas"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=I’m+currently+learning+Rust" alt="Typing SVG" /></a>
+
+* <a href="https://github.com/draculaas"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=I’m+really+getting+into+MEV+arbitrage+and+flashbots" alt="Typing SVG" /></a>
 
 ## Tech Stack 
 
@@ -50,7 +52,6 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-**etc..**
 
 <p align="left">
   <a href="https://github.com/draculaas?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
