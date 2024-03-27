@@ -3,7 +3,7 @@
  WELCOME <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 <p align="center">
-  <a href="https://github.com/draculaas"><img src="https://readme-typing-svg.herokuapp.com?font=Piedra&size=23&duration=3000&pause=300&color=00F726&center=true&vCenter=true&multiline=true&width=450&height=100&lines=ALWAYS+LEARNING;PASSIONATE+ABOUT+PROGRAMMING;NO+TIME+TO+WASTE"></a>
+  <a href="https://github.com/DenzelPenzel"><img src="https://readme-typing-svg.herokuapp.com?font=Piedra&size=23&duration=3000&pause=300&color=00F726&center=true&vCenter=true&multiline=true&width=450&height=100&lines=ALWAYS+LEARNING;PASSIONATE+ABOUT+PROGRAMMING;NO+TIME+TO+WASTE"></a>
 </p>
 <h3 align="center">
         <samp>&gt; Hey!, I am
@@ -12,15 +12,15 @@
 </h3>
 
 
-* <a href="https://github.com/draculaas"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Software+Engineer" alt="Typing SVG" /></a>
+* <a href="https://github.com/DenzelPenzel"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Software+Engineer" alt="Typing SVG" /></a>
 
-* <a href="https://github.com/draculaas"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Passionate+About+Distributed+Systems+And+Algorithms" alt="Typing SVG" /></a>
+* <a href="https://github.com/DenzelPenzel"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Passionate+About+Distributed+Systems+And+Algorithms" alt="Typing SVG" /></a>
 
-* <a href="https://github.com/draculaas"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Blockchain+researcher" alt="Typing SVG" /></a>
+* <a href="https://github.com/DenzelPenzel"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Blockchain+researcher" alt="Typing SVG" /></a>
 
-* <a href="https://github.com/draculaas"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=I’m+currently+learning+Rust" alt="Typing SVG" /></a>
+* <a href="https://github.com/DenzelPenzel"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=I’m+currently+learning+Rust" alt="Typing SVG" /></a>
 
-* <a href="https://github.com/draculaas"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=I’m+really+getting+into+MEV+arbitrage+and+flashbots" alt="Typing SVG" /></a>
+* <a href="https://github.com/DenzelPenzel"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=I’m+really+getting+into+MEV+arbitrage+and+flashbots" alt="Typing SVG" /></a>
 
 ## 🛠️ My Favorite Tools
 
@@ -64,21 +64,21 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <p align="center">
-  <a href="https://github.com/draculaas">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=draculaas&theme=github-dark&mode=weekly&card_width=500" alt="Denzel GitHub streak"/>
+  <a href="https://github.com/DenzelPenzel">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=DenzelPenzel&theme=github-dark&mode=weekly&card_width=500" alt="Denzel GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/draculaas">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=draculaas&theme=github_dark" alt="Denzel GitHub Contribution"/>
+  <a href="https://github.com/DenzelPenzel">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DenzelPenzel&theme=github_dark" alt="Denzel GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-  <a href="https://github.com/draculaas"><img alt="Denzel Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=draculaas&show_icons=true&count_private=true&theme=react&border_color=04FF00&bg_color=0D1117&title_color=04FF00&icon_color=04FF00" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/draculaas"><img alt="Denzel Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=draculaas&langs_count=8&layout=compact&theme=react&border_color=04FF00&bg_color=0D1117&title_color=04FF00&icon_color=04FF00" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/DenzelPenzel"><img alt="Denzel Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DenzelPenzel&show_icons=true&count_private=true&theme=react&border_color=04FF00&bg_color=0D1117&title_color=04FF00&icon_color=04FF00" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/DenzelPenzel"><img alt="Denzel Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenzelPenzel&langs_count=8&layout=compact&theme=react&border_color=04FF00&bg_color=0D1117&title_color=04FF00&icon_color=04FF00" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-![Denzel Graph](https://github-readme-activity-graph.vercel.app/graph?username=draculaas&theme=github-compact)
+![Denzel Graph](https://github-readme-activity-graph.vercel.app/graph?username=DenzelPenzel&theme=github-compact)
