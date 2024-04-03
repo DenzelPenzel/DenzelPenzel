@@ -20,7 +20,7 @@
 
 * <a href="https://github.com/DenzelPenzel"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=I’m+currently+learning+Rust" alt="Typing SVG" /></a>
 
-* <a href="https://github.com/DenzelPenzel"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=I’m+really+getting+into+Zero-Knowledge+Proof+(ZKP)+MEV..." alt="Typing SVG" /></a>
+* <a href="https://github.com/DenzelPenzel"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=I’m+really+getting+into+Zero-Knowledge+Proof+(ZKP),+MEV..." alt="Typing SVG" /></a>
 
 ## 🛠️ My Favorite Tools
 
