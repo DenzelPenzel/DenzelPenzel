@@ -60,12 +60,6 @@
 
 <p align="center">
   <a href="https://github.com/DenzelPenzel">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=DenzelPenzel&theme=github-dark&mode=weekly&card_width=500" alt="Denzel GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DenzelPenzel">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DenzelPenzel&theme=github_dark" alt="Denzel GitHub Contribution"/>
   </a>
 </p>
