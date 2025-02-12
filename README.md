@@ -65,6 +65,6 @@
 
 <a> 
   <a href="https://github.com/DenzelPenzel"><img alt="Denzel Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DenzelPenzel&show_icons=true&count_private=true&theme=react&border_color=04FF00&bg_color=0D1117&title_color=04FF00&icon_color=04FF00" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/DenzelPenzel"><img alt="Denzel Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenzelPenzel&langs_count=8&layout=compact&theme=react&border_color=04FF00&bg_color=0D1117&title_color=04FF00&icon_color=04FF00" height="192px" width="49.5%"/></a>
-  <br/>
 </a>
+
+![Denzel Graph](https://github-readme-activity-graph.vercel.app/graph?username=DenzelPenzel&theme=github-compact)
