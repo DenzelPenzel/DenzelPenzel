@@ -3,7 +3,7 @@
  WELCOME <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 <p align="center">
-  <a href="https://github.com/DenzelPenzel"><img src="https://readme-typing-svg.herokuapp.com?font=Piedra&size=23&duration=3000&pause=300&color=00F726&center=true&vCenter=true&multiline=true&width=450&height=100&lines=ALWAYS+LEARNING;PASSIONATE+ABOUT+PROGRAMMING;NO+TIME+TO+WASTE"></a>
+  <a href="https://github.com/DenzelPenzel"><img src="https://readme-typing-svg.herokuapp.com?font=Piedra&size=23&duration=3000&pause=300&color=00F726&center=true&vCenter=true&multiline=true&width=450&height=100&lines=ALWAYS+LEARNING;PASSIONATE+ABOUT+PROGRAMMING;"></a>
 </p>
 <h3 align="center">
         <samp>&gt; Hey!, I am
