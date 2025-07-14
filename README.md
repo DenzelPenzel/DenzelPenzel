@@ -57,12 +57,6 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="center">
-  <a href="https://github.com/DenzelPenzel">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DenzelPenzel&theme=github_dark" alt="Denzel GitHub Contribution"/>
-  </a>
-</p>
-
 <a> 
   <a href="https://github.com/DenzelPenzel"><img alt="Denzel Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DenzelPenzel&show_icons=true&count_private=true&theme=react&border_color=04FF00&bg_color=0D1117&title_color=04FF00&icon_color=04FF00" height="192px" width="49.5%"/></a>
 </a>
