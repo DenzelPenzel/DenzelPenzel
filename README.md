@@ -5,18 +5,6 @@
 <p align="center">
   <a href="https://github.com/DenzelPenzel"><img src="https://readme-typing-svg.herokuapp.com?font=Piedra&size=23&duration=3000&pause=300&color=00F726&center=true&vCenter=true&multiline=true&width=450&height=100&lines=ALWAYS+LEARNING;PASSIONATE+ABOUT+PROGRAMMING;"></a>
 </p>
-<h3 align="center">
-        <samp>&gt; Hey!, I am
-                <b>Denzel</b>
-        </samp>
-</h3>
-
-
-* <a href="https://github.com/DenzelPenzel"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Software+Engineer" alt="Typing SVG" /></a>
-
-* <a href="https://github.com/DenzelPenzel"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Passionate+About+Distributed+Systems+And+Algorithms" alt="Typing SVG" /></a>
-
-* <a href="https://github.com/DenzelPenzel"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Blockchain+researcher" alt="Typing SVG" /></a>
 
 ## 🛠️ My Favorite Tools
 
